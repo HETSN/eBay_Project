@@ -20,31 +20,36 @@ Transaction details such as order ID, order date, shipping cost, and total order
 - SQL Sample Queries
 
 # Experience and Challenges
-## Experience
+### Experience
 Working as a team was a valuable experience, involving knowledge sharing and collaborative planning. We started by understanding eBay’s database requirements and organized data to ensure ease of use. We designed the database structure, decided on table creation, and established connections between them. Continuous communication was crucial to align the team’s understanding and meet the project goals.
 
-## Challenges
+### Challenges
 Creating a unique and realistic database presented challenges, including brainstorming ideas and ensuring data accuracy. We encountered certain problems while making of ER diagram & converting into Relational Schema, which were resolved through online research.
 
-## Real User Inputs
+### Real User Inputs
 We incorporated real product listings, transaction histories, and user interactions to mirror the eBay experience, ensuring the database’s authenticity and practicality.
 
 # Efforts and Initiatives
-## Normalization
+### Normalization
 We worked diligently to normalize the database to optimize performance and minimize redundancy, ensuring efficient data storage and retrieval.
 
-## Documentation
+### Documentation
 Detailed documentation, including ER diagrams and relational schemas, was prepared to outline the database structure, relationships, and constraints, facilitating future maintenance.
 
-## Testing
+### Testing
 Rigorous testing was conducted to identify and address potential issues with data manipulation and query execution, ensuring smooth system functionality.
 
 # Learnings
-## Data Integrity
+### Data Integrity
 We enhanced our understanding of maintaining data integrity through constraints and relationships, crucial for preserving the reliability of the eBay platform.
 
-## User-Centric Approach
+### User-Centric Approach
 Incorporating real user needs and inputs was prioritized, enhancing the practicality and usability of our database system.
+
+# Next Steps
+Various external views can be added, allowing different types of users to see different subsets of the database schema. For example, eBay administrators can access all data, while sellers and buyers might see only relevant information. Building a user-friendly website where users can run queries on the database is also a planned next step.
+
+This project has been an enriching experience, providing insights into balancing complexity with usability in real-life database management.
 
 # Next Steps
 Various external views can be added, allowing different types of users to see different subsets of the database schema. For example, eBay administrators can access all data, while sellers and buyers might see only relevant information. Building a user-friendly website where users can run queries on the database is also a planned next step.
