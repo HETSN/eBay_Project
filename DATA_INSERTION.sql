@@ -1,7 +1,6 @@
 --Database Management System Project
-
---Group Id:- T612       --Lab Group No:- 6
 --Topic Name:- e-Bay
+--Data Insertion statements: 
 
 --1)
 INSERT INTO user_profile(email, user_password, first_name, last_name)
