@@ -51,7 +51,3 @@ Various external views can be added, allowing different types of users to see di
 
 This project has been an enriching experience, providing insights into balancing complexity with usability in real-life database management.
 
-# Next Steps
-Various external views can be added, allowing different types of users to see different subsets of the database schema. For example, eBay administrators can access all data, while sellers and buyers might see only relevant information. Building a user-friendly website where users can run queries on the database is also a planned next step.
-
-This project has been an enriching experience, providing insights into balancing complexity with usability in real-life database management.
